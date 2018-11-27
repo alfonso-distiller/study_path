@@ -10,6 +10,7 @@
 - Unity
 
 ## Udemy courses:
+- Mysql
 - React
 - Spring 5
 - Microservices
@@ -17,4 +18,6 @@
 - Data Structures and Algorithms
 - Drawing
 - Unity
-- Mysql
+
+# Projects
+- Employee API for mulesoft and mariadb
